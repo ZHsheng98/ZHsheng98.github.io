@@ -14,17 +14,21 @@
 </table>
 
 
-### 最新消息
+### News
 1.
 
-### 研究方向
+### Education
+- 2019.09- 上海交通大学自动化系
+- 2015.09-2019.06 西安交通大学自动化系
+
+### Research interest
 - 智能交通系统
 - 机器学习
 
-### 荣耀奖励
+### Awards and Honors
 
-### 项目经历
+### Projects
 
-### 技能
+### Skills
 - Python
-- TOEFL 94
+- TOEFL 93
