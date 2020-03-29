@@ -26,5 +26,5 @@
 ### 项目经历
 
 ### 技能
-- python
+- Python
 - TOEFL 94
