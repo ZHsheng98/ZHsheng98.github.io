@@ -18,8 +18,6 @@
 1.
 
 ### Education
-- 2019.09-now 上海交通大学自动化系
-- 2015.09-2019.06 西安交通大学自动化系
 <table border="0">
   <tr>
     <td width="75%">
@@ -27,10 +25,10 @@
       <p><b>2015.09-2019.06 西安交通大学自动化系</b></p>
     </td>
     <td width="25%">
-      <img src="/sjtu-logo.jpg" width="100%">      
+      <img src="/sjtu-logo.jpg" width="10%">      
     </td>
     <td width="25%">
-      <img src="/xjtu-logo.jpg" width="100%">      
+      <img src="/xjtu-logo.jpg" width="10%">      
     </td>
   </tr>
 </table>
