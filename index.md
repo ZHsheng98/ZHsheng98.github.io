@@ -18,20 +18,9 @@
 1.
 
 ### Education
-<table border="0">
-  <tr>
-    <td width="75%">
-      <p><b>2019.09-now 上海交通大学自动化系</b></p>
-      <p><b>2015.09-2019.06 西安交通大学自动化系</b></p>
-    </td>
-    <td width="25%">
-      <img src="/sjtu-logo.jpg" width="10%">      
-    </td>
-    <td width="25%">
-      <img src="/xjtu-logo.jpg" width="10%">      
-    </td>
-  </tr>
-</table>
+- 2019.09-now 上海交通大学自动化系在读，攻读专业硕士学位
+- 2017.09-2018.01 台湾交通大学计算机系交换
+- 2015.09-2019.06 西安交通大学自动化系，获工学学士学位
 
 ### Research interest
 - 智能交通系统
