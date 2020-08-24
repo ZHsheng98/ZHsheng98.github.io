@@ -32,4 +32,5 @@
 
 ### Skills
 - Python
-- TOEFL 93
+- PyTorch
+- TOEFL
