@@ -15,8 +15,7 @@
 
 
 ### News
-1.
-
+1. Z. Sheng, S. Xue, Y. Xu and D. Li, "Real-Time Queue Length Estimation With Trajectory Reconstruction Using Surveillance Data," 2020 16th International Conference on Control Automation Robotics & Vision (ICARCV), accepted.
 ### Education
 - 2019.09-now 上海交通大学自动化系在读，攻读专业硕士学位
 - 2017.09-2018.01 台湾交通大学计算机系交换
