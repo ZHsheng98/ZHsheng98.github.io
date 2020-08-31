@@ -24,7 +24,7 @@
 ### Research interest
 - Intelligent Transportation Systems
 - Automated Driving
-- Deep Learning and data mining
+- Deep Learning and Data Mining
 
 ### Awards and Honors
 
