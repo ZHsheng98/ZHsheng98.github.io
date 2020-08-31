@@ -28,8 +28,6 @@
 
 ### Awards and Honors
 
-### Projects
-
 ### Skills
 - Programming Languages：Python, Matlab, Tex, etc.
 - Machine Learning Frameworks：PyTorch, etc.
