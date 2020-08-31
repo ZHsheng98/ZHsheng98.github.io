@@ -32,5 +32,5 @@
 
 ### Skills
 - Programming Languages：Python, Matlab, Tex, etc.
-- Machine Learning Frameworks：Pytorch, Scikit-Learn, Networkx, etc.
+- Machine Learning Frameworks：PyTorch, etc.
 
