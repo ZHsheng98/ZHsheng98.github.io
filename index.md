@@ -7,7 +7,7 @@
       <p><b>Email：zihaosheng@sjtu.edu.cn</b></p>
     </td>
     <td width="25%">
-      <img src="/IMG_6844.JPG" width="100%">      
+      <img src="/katong.jpg" width="100%">      
     </td>
   </tr>
 </table>
