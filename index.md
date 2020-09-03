@@ -18,7 +18,7 @@
 
 ### Research interest
 - Intelligent Transportation Systems
-- Automated Driving
+- Autonomous Driving
 - Deep Learning and Data Mining
 
 ### Education
