@@ -14,7 +14,7 @@
 
 
 ### News
-- [Aug. 2020] Z. Sheng, S. Xue, Y. Xu and D. Li, "Real-Time Queue Length Estimation With Trajectory Reconstruction Using Surveillance Data," 16th International Conference on Control Automation Robotics & Vision, 2020. (Accepted, Oral)
+- [Sep. 2020] Teaching Assistant of Digital Signal Processing for undergraduate students
 
 ### Research interest
 - Intelligent Transportation Systems
@@ -26,7 +26,8 @@
 - 2017.09-2018.01 Exchange Student, College of Computer Science, NCTU, Taiwan
 - 2015.09-2019.06 Bachelor, School of Electronics and Information Engineering, Xian Jiao Tong University, Xian
 
-### Awards and Honors
+### Papers
+- Z. Sheng, S. Xue, Y. Xu and D. Li, "Real-Time Queue Length Estimation With Trajectory Reconstruction Using Surveillance Data," 16th International Conference on Control Automation Robotics & Vision, 2020. (Accepted, Oral)
 
 ### Skills
 - Programming Languages：Python, Matlab, Tex, etc.
