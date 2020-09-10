@@ -14,7 +14,7 @@
 
 
 ### News
-- [Sep. 2020] Teaching Assistant of Digital Signal Processing for undergraduate students
+- [Sep. 2020] TA of Digital Signal Processing for undergraduate students
 
 ### Research interest
 - Intelligent Transportation Systems
