@@ -14,7 +14,7 @@
 
 
 ### News
-- [Sep. 2020] TA of Digital Signal Processing for undergraduate students in 2020Fall
+- [Sep. 2020] TA of Digital Signal Processing for undergraduate students in 2020 Fall
 
 ### Research interest
 - Intelligent Transportation Systems
@@ -33,3 +33,5 @@
 - Programming Languages：Python, Matlab, Tex, etc.
 - Machine Learning Frameworks：PyTorch, etc.
 
+### Teaching and mentoring experience
+- 2020 Fall-Teaching Assistant of Digital Signal Processing for undergraduate students
