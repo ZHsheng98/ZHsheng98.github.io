@@ -34,4 +34,4 @@
 - Machine Learning Frameworks：PyTorch, etc.
 
 ### Teaching and mentoring experience
-- 2020Fall-Teaching Assistant of Digital Signal Processing for undergraduate students
+- 2020Fall Teaching Assistant of Digital Signal Processing for undergraduate students
