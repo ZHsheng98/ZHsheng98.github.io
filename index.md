@@ -2,7 +2,7 @@
   <tr>
     <td width="75%">
       <h1>Sheng Zihao</h1>
-      <p><b>Master, Supervise by [Xue Shibei](www.baidu.com)</b></p>
+      <p><b>Master</b></p>
       <p><b>School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University</b></p>
       <p><b>Email：zihaosheng@sjtu.edu.cn</b></p>
     </td>
@@ -22,7 +22,7 @@
 - Deep Learning and Data Mining
 
 ### Education
-- 2019.09-2022.03 (expected) Master, School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai
+- 2019.09-2022.03 (expected) Master, Supervised by [Xue Shibei](www.baidu.com), School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai
 - 2017.09-2018.01 Exchange Student, College of Computer Science, NCTU, Taiwan
 - 2015.09-2019.06 Bachelor, School of Electronics and Information Engineering, Xian Jiao Tong University, Xian
 
