@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>盛子豪</h1>
+      <h1>Sheng Zihao</h1>
       <p><b>Master</b></p>
       <p><b>School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University</b></p>
       <p><b>Email：zihaosheng@sjtu.edu.cn</b></p>
