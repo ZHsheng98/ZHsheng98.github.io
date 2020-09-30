@@ -37,4 +37,4 @@
 - 2020Fall Teaching Assistant of Digital Signal Processing for undergraduate students
 
 
-<a href="https://clustrmaps.com/site/1bdem"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=TtxbARgnaTohDeyrieMabrWUV9qEvTvweMYNcYLZpv8&cl=ffffff" /></a>
+<a href='https://clustrmaps.com/site/1bdem'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=TtxbARgnaTohDeyrieMabrWUV9qEvTvweMYNcYLZpv8'/></a>
