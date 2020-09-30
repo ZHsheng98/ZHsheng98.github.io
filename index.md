@@ -24,7 +24,7 @@
 ### Education
 - 2019.09-2022.03 (expected) Master, Supervised by Assistant Prof. [Xue Shibei](https://scholar.google.com/citations?user=kOF5Q_QAAAAJ&hl=zh-TW&oi=ao) and Prof. [Li Dewei](https://scholar.google.com/citations?user=mLSocOwAAAAJ&hl=zh-TW&oi=ao), School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai
 - 2017.09-2018.01 Exchange Student, College of Computer Science, NCTU, Taiwan
-- 2015.09-2019.06 Bachelor, School of Electronics and Information Engineering, Xian Jiao Tong University, Xian
+- 2015.09-2019.06 Bachelor, School of Electronics and Information Engineering, Xian Jiao Tong University, Xi'an
 
 ### Papers
 - Z. Sheng, S. Xue, Y. Xu and D. Li, "Real-Time Queue Length Estimation With Trajectory Reconstruction Using Surveillance Data," 16th International Conference on Control Automation Robotics & Vision, 2020. (Accepted, Oral)
