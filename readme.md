@@ -14,7 +14,6 @@
 
 
 ### News
-- [Sep. 2020] TA of Digital Signal Processing for undergraduate students in 2020 Fall
 
 ### Research interest
 - Intelligent Transportation Systems
