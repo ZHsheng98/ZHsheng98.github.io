@@ -4,7 +4,7 @@
       <h1>Sheng Zihao</h1>
       <p><b>Master</b></p>
       <p><b>School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University</b></p>
-      <p><b>Email：zihaosheng@sjtu.edu.cn</b></p>
+      <p><b>Email：ahaoszh@gmail.com</b></p>
     </td>
     <td width="25%">
       <img src="/images/sidebar/zhuang.jpg" width="100%">      
